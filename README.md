@@ -119,3 +119,19 @@ dotnet run
 
 ## 👨‍💻 Author
 Ankita Mohanty
+
+## 📸 API Screenshot
+
+Below is the Swagger UI showing available endpoints:
+<img width="1840" height="962" alt="Screenshot 2026-04-05 120007" src="https://github.com/user-attachments/assets/c95e1776-ca6d-40d5-8d5a-c5fd27db7aef" />
+
+---
+
+## 📸 API Testing - Postman
+
+Below are some example API requests tested using Postman:
+<img width="1905" height="972" alt="Filter" src="https://github.com/user-attachments/assets/b1d5c016-ebd7-4068-8e34-a8a32f99eecc" />
+<img width="1915" height="983" alt="GET - Dashboard" src="https://github.com/user-attachments/assets/37585c9d-40b0-429d-9404-4266957ee08d" />
+<img width="1907" height="952" alt="login" src="https://github.com/user-attachments/assets/ce32e2b3-7ace-4780-8c3e-e18c645a125c" />
+
+
